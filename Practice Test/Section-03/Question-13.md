@@ -2,8 +2,7 @@
 Question Type : Single Choice
 
 ## Question
-The ______ model is 7-layer architecture where each layer is having some specific 
-functionality to perform :
+The ______ model is 7-layer architecture where each layer is having some specific functionality to perform :
 
 ## Note
 Each correct answer carries 1 mark
