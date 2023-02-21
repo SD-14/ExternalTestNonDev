@@ -2,8 +2,7 @@
 Question Type : Single Choice
 
 ## Question
-A ______ is a device that forwards packets between networks by processing the routing 
-information included in the packet.
+A ______ is a device that forwards packets between networks by processing the routing information included in the packet.
 
 ## Note
 Each correct answer carries 1 mark
