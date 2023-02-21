@@ -3,12 +3,7 @@ Question Type : Single Choice
 
 ## Question
 Your router has the following IP address on Ethernet0: 172.16.2.1/23. Which of the following 
-can be valid host IDs on the LAN interface attached to the router?
-
-    a. 172.16.1.100 
-    b. 172.16.1.198 
-    c. 172.16.2.255 
-    d. 172.16.3.0
+can be valid host IDs on the LAN interface attached to the router? </br> a. 172.16.1.100  </br> b. 172.16.1.198 </br> c. 172.16.2.255 </br> d. 172.16.3.0
 
 ## Note
 Each correct answer carries 1 mark
