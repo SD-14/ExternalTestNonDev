@@ -2,11 +2,7 @@
 Question Type : Single Choice
 
 ## Question
-Find the statement that must be true according to the given information :
-
-    Vincent has a paper route. Each morning, he delivers 37 newspapers to customers in his 
-    neighbourhood. It takes Vincent 50 minutes to deliver all the papers. If Vincent is sick or has other 
-    plans, his friend Thomas, who lives on the same street, will sometimes deliver the papers for him.
+Find the statement that must be true according to the given information : </br> Vincent has a paper route. Each morning, he delivers 37 newspapers to customers in his neighbourhood. It takes Vincent 50 minutes to deliver all the papers. If Vincent is sick or has other plans, his friend Thomas, who lives on the same street, will sometimes deliver the papers for him.
 
 ## Note
 Each correct answer carries 1 mark
