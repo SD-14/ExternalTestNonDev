@@ -4,7 +4,7 @@ Language : English
 Title : Spektra Non Development Test
 Version : 1.0
 Product Type : Practice Test
-Pass Percentage : 80
+Pass Percentage : 85
 Total Sections : 3
 Total Questions : 35
 Minutes to Complete : 35
